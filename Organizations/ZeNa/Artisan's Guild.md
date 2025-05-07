@@ -1,1 +1,1 @@
-A group dedicated to protections for the craftspeople of the city, but tends to be somewhat ineffectual at generating larger change. The group is vying for a seat on the [City Council](ZeNa City Council), but so far with not much success.
+A group dedicated to protections for the craftspeople of the city, but tends to be somewhat ineffectual at generating larger change. The group is vying for a seat on the [City Council](ZeNa%20City%20Council), but so far with not much success.

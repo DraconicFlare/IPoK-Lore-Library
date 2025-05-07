@@ -26,7 +26,7 @@ Ser Arden survived, however, and climbed the tower to find Caelbyrn. She struck 
 
 Five years later, the genasi had made a home for themselves in the town. Demons continued to pour from the rift periodically, felling civilians and soldiers alike, and an army presence was needed to keep the town alive. Needlepit began to expand to house a larger compliment of soldiers, and when their posts became permanent, many moved their families as well. Traveling mages and alchemists (hopefully, with better intent than Caelbyrn) began coming from afar, hearing that there was a large supply of demonic corpses coming from this town, and therefore there would be access to certain reagents they couldn't get elsewhere. A business was made of killing these invaders. And then the attacks... stopped.
 
-And exactly one year after they stopped, a single devil walked out from the portal. He had come to make a deal with the people there. Rather than both sides constantly fighting and dying and reinforcing, let both sides grow stronger together, with peace. This devil was now-[Ambassador Arkhai Scau](Ambassador%20Arkhai%20Scau).
+And exactly one year after they stopped, a single devil walked out from the portal. He had come to make a deal with the people there. Rather than both sides constantly fighting and dying and reinforcing, let both sides grow stronger together, with peace. This devil was now-[Arkhai Scau](../NPCs/ZeNa/Arkhai%20Scau.md).
 
 After speaking at length with the town's overseer on behalf of [the King of Titan](the%20King%20of%20Titan), [Roscoe Stromkirk](Roscoe%20Stromkirk), the two forged the [Stromkirk-Scau Accord](Stromkirk-Scau%20Accord), and peace was made.
 

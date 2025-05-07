@@ -1,0 +1,1 @@
+The dwarven owner of the [[Bottleneck]] bar. He's on the older side, and a bit of a grouch, but he's always willing to help someone bend the rules if they can make it worth his while.

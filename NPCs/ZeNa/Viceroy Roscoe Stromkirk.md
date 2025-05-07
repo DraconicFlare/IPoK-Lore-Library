@@ -1,0 +1,1 @@
+The half-earth genasi/half-human agent of order. He takes his commands directly from the [[King of Titan]], and sits in on all [council](IPoK%20Wiki/Organizations/ZeNa/ZeNa%20City%20Council.md) meetings. He's often found walking about the city, peering into shopfronts and windows and writing things in a journal. No one quite knows what his goals are.

@@ -1,3 +1,3 @@
-Captain of the [ZeNa City Guard (ZCG)](../Organizations/ZeNa/ZeNa%20City%20Guard%20(ZCG).md). First tiefling to have this position, thanks to the efforts of the [[Chains of Carceri]] pushing for Tartaran-born people to be able to take higher level positions.
+Captain of the [ZeNa City Guard](../../Organizations/ZeNa/ZeNa%20City%20Guard.md), and member of the [ZeNa City Council](IPoK%20Wiki/Organizations/ZeNa/ZeNa%20City%20Council.md). First tiefling to have this position, thanks to the efforts of the [[Chains of Carceri]] pushing for Tartaran-born people to be able to take higher level positions.
 
 Since being appointed to the position, Captain Ghaine hasn't exactly been the most generous to her people. The CoC has been pretty split on the matter since, with many believing she's let power go to her head. She does make a positive move every now and again, but it's hard for folks not to feel let down when she doesn't actively stand up for her people.

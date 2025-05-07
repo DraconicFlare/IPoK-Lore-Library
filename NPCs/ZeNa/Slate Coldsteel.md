@@ -1,0 +1,1 @@
+The earth genasi mayor of Zenith, member of the [ZeNa City Council](IPoK%20Wiki/Organizations/ZeNa/ZeNa%20City%20Council.md), and lump of a man. He rarely does anything, save for occasionally approving low-impact city projects that cause approval spikes in polling. The people are starting to get tired of his bullshit though, and his recent poll numbers have been subpar.

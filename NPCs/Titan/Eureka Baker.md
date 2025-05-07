@@ -1,0 +1,5 @@
+The cook for [[the Orthoclast family]]. She was born in [[Needlepit]] in the year (gamestart-47) to one human and one devil parent. Her family was kept hidden and safe from Caelbyrn's wrath by way of the illusory magics of her father, but when Caelbyrn was slain and the tensions towards [[Tartarus]] were highest, she was sent away to Titan to apprentice with a distant relative. There, at age 10, she began learning her trade.
+
+Over the years, she kept in close contact with her family at home. They'd often exchange letters
+
+When Eureka was 17, the old cook died, and she stepped up to take her teacher's place.

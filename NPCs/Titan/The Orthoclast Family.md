@@ -1,0 +1,1 @@
+Almondine and LeGrand Orthoclast are the heads of a noble house in Titan. Their eldest, Mookaite, is a model son, and is being prepared to take over his parents seat in the nobility when the time comes. Their youngest is likely unimportant.

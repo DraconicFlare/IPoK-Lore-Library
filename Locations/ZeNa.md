@@ -8,7 +8,7 @@ Zenith and Nadir are connected by magic portal and by trade, and in many ways op
 As far as cities go, ZeNa is very young. It was only officially founded in the year {gamestart-24}, but its rapid growth stems from two factors: firstly, that it sprung up from the shell of the town of [Needlepit](Needlepit), so there was already a baseline population, and secondly, that it rapidly became a trade hub due to its permanent portal to Tartarus, transforming the small town into what essentially amounts to a port city.
 
 ---
-The history of ZeNa begins in the small town of Needlepit. The town was often overlooked and forgotten about, which suited its residents fine. The closest city to it, [Titan](Titan), was fairly insular too, and made few overtures towards the smaller town, other than giving occasional aid when a villager managed to get themselves injured in a way their non-magical medicine would be too slow to heal.
+The history of ZeNa begins in the small town of Needlepit. The town was often overlooked and forgotten about, which suited its residents fine. The closest city to it, [Titan](Titan.md), was fairly insular too, and made few overtures towards the smaller town, other than giving occasional aid when a villager managed to get themselves injured in a way their non-magical medicine would be too slow to heal.
 
 Then, in {gamestart-50}, a traveler came to town by the name of [Caelbyrn](Caelbyrn). He claimed to be simply passing through, but it quickly became clear that he had more dire intentions in mind.
 

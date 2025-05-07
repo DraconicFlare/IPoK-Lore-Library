@@ -1,0 +1,3 @@
+A walled city roughly four times the size of [ZeNa](ZeNa.md), Titan is the capitol of the [Kingdom of Titania](Kingdom%20of%20Titania). The city is built into a massive crater about a half mile wide and split into 12 wards; four quadrants, with three tiers (outer, middle, and inner) in each. At the very center is the king's castle grounds, whose ground floor rests a ways below the city's walls, and whose towers reach far above them (picture a conical mushroom, upside down, with the cap half-buried below the ground and the stalk reaching to the sky).
+
+Legend states that the crater was made by the [earth genasi](earth%20genasi)'s patron god, [Cōsh](Cōsh), their mighty hammer smashing a groove into the earth, splitting it into sections like we see the city today.

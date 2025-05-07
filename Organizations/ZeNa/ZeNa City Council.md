@@ -13,4 +13,4 @@ Seats can be added by a unanimous vote, which is increasingly rare. Appeals are 
 
 Due to the fact that there are not always an odd number of seats, there is a role which rotates among all members of the council called the Keeper of the Accord. This additional title allows for there to be a break in ties, leaning in the favor of the current Keeper; their vote counts for one and a half votes, or thereabouts.
 
-Additionally, there is always one person that watches over the proceedings in the interest of informing the King of Titan as to the goings on of the city, and in the interest of ensuring fairness in all proceedings. This role is currently held by [Viceroy Roscoe Stromkirk](../../NPCs/ZeNa/Viceroy%20Roscoe%20Stromkirk.md), and presumably should he meet an untimely death, another overseer would be sent from Titan to assume the position.
+Additionally, there is always one person that watches over the proceedings in the interest of informing the [[King of Titan](../../NPCs/ZeNa/Viceroy%20Roscoe%20Stromkirk.md), and presumably should he meet an untimely death, another overseer would be sent from [Titan](../../Locations/Titan.md) to assume the position.

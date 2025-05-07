@@ -1,0 +1,3 @@
+The elven Guildmaster of the Merchant Coalition. He is a selfish man with expensive tastes, who was raised to nobility by creating a mercantile fiefdom within Zenith. 
+
+Those that set up shop within the city have to pay a fee for use of the space, or else find their shop ransacked and destroyed. Officially, these are, of course, terrible and tragic incidents that Thaddeus is doing his best to crack down on. He's working tirelessly with the City Guard to put a stop these crooks.

@@ -1,8 +1,8 @@
 A group of officials whose role is to make wide-reaching decisions that would have effects on both cities.
 
 There are currently seven seats on the ZeNa City Council. Each seat is kept until retirement or death. The current seats are:
-- Guard Captain - Held by [Pela Ghaine](Guard%20Captain%20Pela%20Ghaine)
-- Merchant Coalition Guildmaster - Held by [Thaddeus Gilder](Thaddeus%20Gilder)
+- Guard Captain - Held by [Pela Ghaine](../../NPCs/Guard%20Captain%20Pela%20Ghaine.md)
+- Merchant Coalition Guildmaster - Held by [Thaddeus Gilder](../../NPCs/Thaddeus%20Gilder.md)
 - Mayor of Zenith - Held by [Slate Coldsteel](Slate%20Coldsteel)
 - Mayor of Nadir - Held by [Lucius Olsen](Lucius%20Olsen)
 - Tartaran Ambassador - Held by [Arkhai Scau](Arkhai%20Scau)

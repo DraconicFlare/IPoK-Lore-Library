@@ -28,6 +28,6 @@ Five years later, the genasi had made a home for themselves in the town. Demons 
 
 And exactly one year after they stopped, a single devil walked out from the portal. He had come to make a deal with the people there. Rather than both sides constantly fighting and dying and reinforcing, let both sides grow stronger together, with peace. This devil was now-[Arkhai Scau](../NPCs/ZeNa/Arkhai%20Scau.md).
 
-After speaking at length with the town's overseer on behalf of [the King of Titan](the%20King%20of%20Titan), [Roscoe Stromkirk](Roscoe%20Stromkirk), the two forged the [Stromkirk-Scau Accord](Stromkirk-Scau%20Accord), and peace was made.
+After speaking at length with [Roscoe Stromkirk](Viceroy%20Roscoe%20Stromkirk), the town's overseer on behalf of [the King of Titan](the%20King%20of%20Titan), the two forged the [Stromkirk-Scau Accord](Stromkirk-Scau%20Accord), and peace was made.
 
 The town, now for the most part absent of demon corpses, had to find a new industry. Tartarus provided; their silvery ore could be smelted into an alloy stronger than steel, and the wood from their trees proved sturdier than any lumber from the [Material Plane](Material%20Plane). The city was revitalized again, renamed, and rebuilt as two connected cities: Zenith, and Nadir. 

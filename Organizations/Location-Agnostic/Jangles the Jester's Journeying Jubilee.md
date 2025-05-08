@@ -1,6 +1,6 @@
-A travelling one-ring circus (also known by its members as 4J), which is, at game-start, sitting just north of the western gate of [[ZeNa]]. The circus hasn't been in town for long, two weeks at most, but no one can quite remember when they got here.
+A travelling one-ring circus (also known by its members as 4J), which is, at game-start, sitting just north of the western gate of [ZeNa](../../Locations/ZeNa.md). The circus hasn't been in town for long, two weeks at most, but no one can quite remember when they got here.
 
-The origin of 4J is somewhat hazy, some saying it made its start in [[Titan]], others say it hails from a kingdom outside Titania, still others claim it's from the depths of [[Tartarus]] itself. They tend not to quiet any rumors, as the mystique adds to their performance.
+The origin of 4J is somewhat hazy, some saying it made its start in [Titan](../../Locations/Titan.md), others say it hails from a kingdom outside Titania, still others claim it's from the depths of [Tartarus](Tartarus) itself. They tend not to quiet any rumors, as the mystique adds to their performance.
 
 There are seven members of 4J, all of whom are only known by their stage names. They are as follows:
 

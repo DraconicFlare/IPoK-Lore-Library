@@ -1,0 +1,3 @@
+(She/Her) The [Tartaran](Tartarus) dual-faceted god of skill and luck. Tartaran gods are inherently dual-faceted, having two separate personas with the same name, but different abilities and opinions, often. Each one is both the same being and separate.
+
+In Inef's case, the Expert is usually calm and measured, taking few risks and aiding her acolytes with enhanced ability. On the flipside, the Lucky tends to be more rash, taking lots of risks and never getting punished, granting her acolytes the ability to overcome impossible and ridiculous odds.

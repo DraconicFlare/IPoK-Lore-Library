@@ -1,0 +1,3 @@
+(She/He) The Tartaran dual-faceted god of protection and liberation. Tartaran gods are inherently dual-faceted, having two separate personas with the same name, but different abilities and opinions, often. Each one is both the same being and separate.
+
+For Fayn, the Warden is a god of honor and guardianship, and is a deity associated with orphanages in Tartarus; the Free is a god of righteous fury and breaker of chains.

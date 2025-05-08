@@ -1,0 +1,1 @@
+(They/Them) The [Titanite](IPoK%20Wiki/Locations/Titan.md) god of the cycle of life, and of cycles more generally. The god of beginning, continuation, and the end. They are somewhat less worshipped than [Cōsh](Cōsh.md), but still highly respected.

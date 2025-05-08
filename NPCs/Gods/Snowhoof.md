@@ -1,0 +1,1 @@
+(He/It) The [Needler](Needlepit) god of winter, nature, and the unknown, Snowhoof is a 30ft tall elk-like entity, its skeletal head sporting black antlers. Snowhoof is the shadow seen in the woods, and it is a guardian of the wild.

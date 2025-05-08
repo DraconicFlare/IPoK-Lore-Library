@@ -6,8 +6,8 @@ On the other hand, more local gods, i.e. patron deities of a household or town, 
 
 List of known gods:
  - [Cōsh](Cōsh.md), God of the Sky
- - [Skén](Skén), God of the Cycle
- - [Knuckleback](Knuckleback), God of Wrath
+ - [Skén](Skén.md), God of the Cycle
+ - [Knuckleback](Knuckleback.md), God of Wrath
  - [Snowhoof](Snowhoof), God of the Wild
- - [Inef](Inef), Dual God of Skill and Luck
- - [Fayn](Fayn), Dual God of Protection and Liberation
+ - [Inef](Inef,%20the%20Expert;%20Inef,%20the%20Lucky.md), Dual God of Skill and Luck
+ - [Fayn](Fayn,%20the%20Warden;%20Fayn,%20the%20Free.md), Dual God of Protection and Liberation

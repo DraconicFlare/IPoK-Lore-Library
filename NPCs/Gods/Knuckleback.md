@@ -1,0 +1,1 @@
+(He/Him) The [Needler](Needlepit) god of destruction, Knuckleback is a great sleeping dragon, its body making up the [Wyrmspine](Wyrmspine) mountains. Local legends say that when he wakens from his slumber, the end-times are at hand.

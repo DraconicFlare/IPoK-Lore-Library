@@ -1,1 +1,1 @@
-Human head of the Astraeus household, and member of the [ZeNa City Council](../../Organizations/ZeNa/ZeNa%20City%20Council.md). Her family owns the Bank of Zenith. Most that have had to interact with her would call her a cruel woman who always gets what she wants.
+(She/Her) Human head of the Astraeus household, and member of the [ZeNa City Council](../../Organizations/ZeNa/ZeNa%20City%20Council.md). Her family owns the Bank of Zenith. Most that have had to interact with her would call her a cruel woman who always gets what she wants.

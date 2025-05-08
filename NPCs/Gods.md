@@ -5,7 +5,7 @@ It has been theorized by religious scholars that some gods could be in the colle
 On the other hand, more local gods, i.e. patron deities of a household or town, might only grant the full strength of their power to clerics (and such) while those practitioners stay within the deity's domain of belief, and their powers might lessen the further they stray from their deity's homeland.
 
 List of known gods:
- - [Cōsh](Cōsh), God of the Sky
+ - [Cōsh](Cōsh.md), God of the Sky
  - [Skén](Skén), God of the Cycle
  - [Knuckleback](Knuckleback), God of Wrath
  - [Snowhoof](Snowhoof), God of the Wild

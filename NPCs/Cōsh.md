@@ -1,0 +1,3 @@
+(They/Them) The [Titanite](IPoK%20Wiki/Locations/Titan.md) god of the Sun, the Moon, the Stars, and the Sky, and the most revered god in the [Kingdom of Titania](Kingdom%20of%20Titania), considered to be the most powerful. Legends say that when you hear a crack of thunder, it's the sound of Cōsh destroying evil with their mighty hammer. They also say this same hammer is what made the crater that Titan now rests in.
+
+Cōsh has a major sect in [[ZeNa]] called the [[Sentinels of the Celestial Dome]].

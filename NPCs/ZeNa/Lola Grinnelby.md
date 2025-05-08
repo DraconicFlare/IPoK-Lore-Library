@@ -1,1 +1,1 @@
-The halfling proprietor of [Lola's Pub+Grub](Lola's%20Pub+Grub) and Lola's Rest. She's overworked and underslept, but stays chipper despite, and takes care of her patrons like they were her own children.
+(She/Her) The halfling proprietor of [Lola's Pub+Grub](Lola's%20Pub+Grub) and Lola's Rest. She's overworked and underslept, but stays chipper despite, and takes care of her patrons like they were her own children.

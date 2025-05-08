@@ -1,1 +1,1 @@
-[This is a placeholder]
+Placeholder tags for when I write this: [Titan](../../Locations/Titan.md), [ZeNa](../../Locations/ZeNa.md), [King of Titan](King%20of%20Titan), [ZeNa City Guard](../ZeNa/ZeNa%20City%20Guard.md)

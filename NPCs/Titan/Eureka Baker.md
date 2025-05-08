@@ -4,4 +4,4 @@ For the first couple of years, she kept in close contact with her family at home
 
 When Eureka was 17, the old cook died, and she stepped up to take her teacher's place, further cementing Titan as her new home.
 
-As time went on, the Orthoclasts had two children: Mookaite and [Spinel Orthoclast](Spinel%20Orthoclast). Spinel, being the youngest, was mostly overlooked in favor of her older brother. Seeing a child abandoned by her parents, she felt a vague kinship with Spinel. Eureka cared for her when her parents ignored her, and took her under her wing, teaching the young'un in much the same way she was taught by her predecessor.
+As time went on, the Orthoclasts had two children: Mookaite (about a year before the old cook died) and [Spinel Orthoclast](Spinel%20Orthoclast) (two years later). Spinel, being the youngest, was mostly overlooked in favor of her older brother. Seeing a child abandoned by her parents, Eureka felt a vague kinship with Spinel. Eureka cared for her when her parents ignored her, and took her under her wing, teaching the young'un in much the same way she was taught by her predecessor.
